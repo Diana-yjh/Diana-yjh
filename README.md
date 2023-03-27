@@ -7,8 +7,7 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/HTML-F05138"/>
    <img src="https://img.shields.io/badge/CSS-3669CF"/>
-   <img src="https://img.shields.io/badge/Git-5D5D5D?style=flat&logo=Git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/iOS-C9C9C9?style=flat&logo=iOS&logoColor=white"/>
+  
   <br><br>
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=florence96&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florence96&layout=compact)
