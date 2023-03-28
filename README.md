@@ -2,15 +2,21 @@
 <br><br>
   <h1> Hello! This is Yejin Hong's Github Profile</h1>
 <br><br>
-  <h3> :star: My Stacks! :star: </h3>
+  <h3> ✨ My Stacks! ✨ </h3>
    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+   <!--<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>-->
+   <img src="https://img.shields.io/badge/HTML-FFE400"/>
+   <img src="https://img.shields.io/badge/CSS-3669CF"/>
+  <br>
    <img src="https://img.shields.io/badge/Xcode-2478FF?style=flat&logo=Xcode&logoColor=white"/>
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-   <img src="https://img.shields.io/badge/HTML-F05138"/>
-   <img src="https://img.shields.io/badge/CSS-3669CF"/>
+   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <br><br>
-  <h3> :star: My States! :star: </h3>
+  <h3> ✨ My Stats! ✨ </h3>
   
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=florence96&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florence96&layout=compact)
