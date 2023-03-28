@@ -2,7 +2,8 @@
 <br><br>
   <h1> Hello! This is Yejin Hong's Github Profile</h1>
 <br><br>
-  <h3> :star: My Stacks :star: </h3>
+  <h3> :star: My Stacks! :star: </h3>
+   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Xcode-2478FF?style=flat&logo=Xcode&logoColor=white"/>
@@ -10,6 +11,7 @@
    <img src="https://img.shields.io/badge/HTML-F05138"/>
    <img src="https://img.shields.io/badge/CSS-3669CF"/>
 <br><br>
+  <h3> :star: My States! :star: </h3>
   
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=florence96&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florence96&layout=compact)
