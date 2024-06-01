@@ -1,4 +1,4 @@
-##  Welcome to the Diana's Github!!
+##  Welcome to Diana's Github!!
 Hello, This is iOS Developer Diana's Github!!</br>
 
 ### ✨ Contact Me!
