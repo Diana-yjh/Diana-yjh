@@ -6,7 +6,7 @@ Hello, This is iOS Developer Diana's Github!!</br>
 - [Discord](https://discordapp.com/users/509326610281791498)</br>
 
 ### ✨ My Career!
-- 2020.06 ~ 2023.12 Wored at [Remoplus](https://www.kr.remoplus.co/)</br>
+- 2020.06 ~ 2023.12 Worked at [Remoplus](https://www.kr.remoplus.co/)</br>
 - 2024.01 ~ 2024.04 [Yagom iOS Career Start Camp 11th](https://www.yagom-academy.kr/about)</br>
 
 ### ✨ My Stats!
