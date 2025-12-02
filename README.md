@@ -15,6 +15,6 @@ Hello, This is iOS Developer Diana's Github!!</br>
 - 2024.10 ~         Working at [Nueyne](https://nueyne.com/)</br>
 
 ### ✨ My Stats!
-![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=diana-yjh&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=devyjhong)](https://solved.ac/devyjhong)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diana-yjh&layout=compact)
 </br>
